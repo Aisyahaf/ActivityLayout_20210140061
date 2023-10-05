@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectLayout</string>
+    <string name="judul">Raya</string>
+    <string name="subjudul">The Last Dragon</string>
+    <string name="nama">Enter Your Name</string>
+    <string name="tlpon">Enter Your Phone Number</string>
+    <string name="almt">Enter Your Address</string>
+</resources>
